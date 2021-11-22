@@ -1,0 +1,5 @@
+Property;Hotel Type;Hotel Type;Hotel Type;Hotel Type;Price;Price;Facilities;Facilities;Facilities;Facilities;Type;Type;Type;Type;Region
+ID;Hotel;Resort;Apartment;Hostel;Minimum;Maximum;Breakfast Included;WIFI;Spa;GYM;Business;Romantic;Beach;Family-friendly;Country
+Hannover Hotel;1;0;0;0;25;25;1;1;1;0;1;0;1;0;Germany
+Berlin Resort;0;1;0;0;50;50;0;1;0;0;1;0;0;0;Germany
+Amsterdam Hostel;0;0;0;1;10;10;0;0;1;1;1;1;0;0;The Netherland

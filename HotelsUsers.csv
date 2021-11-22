@@ -1,0 +1,8 @@
+Client;Hotel Type;Hotel Type;Hotel Type;Hotel Type;Price;Price;Facilities;Facilities;Facilities;Facilities;Type;Type;Type;Type;Region
+ID;Hotel;Resort;Apartment;Hostel;Minimum;Maximum;Breakfast Included;WIFI;Spa;GYM;Business;Romantic;Beach;Family-friendly;Country
+Tomas;1;0;0;0;5;50;1;1;1;0;1;0;1;0;Germany
+Anna;1;1;0;0;10;100;0;1;0;0;1;0;0;0;Germany
+Matthias;0;1;0;1;2;20;0;0;1;1;1;1;0;0;The Netherland
+Jonas;0;0;1;0;20;80;0;1;0;0;1;1;0;0;Germany
+Veronika;0;0;0;1;5;90;1;1;0;0;1;1;1;1;The Netherland
+Daniel;1;0;0;0;10;40;0;1;1;0;1;1;0;1;Germany
